@@ -5,7 +5,7 @@ The goal was simple, make something better than stacks
 introducing decker 
 benchmark showing off its speed [here](https://sighthough.github.io/Decker-the-stack-optimization/)
 
-*Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and Googles Gemini 3.6 *
+*Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and [Googles Gemini](https://www.youtube.com/shorts/R3Qo4rBgrD8).*
 
 rust version is in the repo with the basic functions of it so it can be transfered to different languages 
 also feel free to rip the index (its the benchmark) for anything you need 
